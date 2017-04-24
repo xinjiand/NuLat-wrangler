@@ -1,0 +1,2 @@
+/home/xinjiand/Der-Nulat/NuLat_Simulation002/Build-Nulat/CMakeFiles/NuLat.dir
+/home/xinjiand/Der-Nulat/NuLat_Simulation002/Build-Nulat/CMakeFiles/Tutorial.dir
